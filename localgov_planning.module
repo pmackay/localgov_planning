@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Planning applications feature.
+ */
+
+include_once 'localgov_planning.features.inc';
